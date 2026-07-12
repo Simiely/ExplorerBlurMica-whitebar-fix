@@ -1,5 +1,7 @@
 # ExplorerBlurMica 底部白条修复
 
+[![在线预览](https://img.shields.io/badge/在线预览-点击访问-E55D6B)](https://simiely.github.io/ExplorerBlurMica-whitebar-fix/)
+
 ## 项目简介
 
 [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) 是一款为 Windows 11 资源管理器（`explorer.exe`）注入 **Mica / Acrylic** 等材质背景的开源工具。
