@@ -17,7 +17,7 @@
 ## 许可与归属
 
 - **ExplorerBlurMica** 是 [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) 的开源项目，采用 **LGPL-3.0 / GPL-3.0** 许可。本仓库 `vendor/ExplorerBlurMica/` 内仅作**个人备份与配套分发**，版权归原作者所有，源代码以上游为准。
-- 本仓库中 `explorer-blur-fix-*.ps1`、`run-nudge-*.bat` 及文档为作者原创，可自由使用、修改。
+- 本仓库中 `explorer-blur-fix-*.ps1`、`run-nudge-*.bat` 及文档为作者原创，采用 **MIT License**（见根目录 [`LICENSE`](LICENSE)），可自由使用、修改、再分发。
 
 ## 问题现象
 
@@ -52,6 +52,7 @@
 
 ```
 ExplorerBlurMica-whitebar-fix/
+├── LICENSE                        # 本仓库原创代码的许可（MIT）
 ├── README.md                      # 本文件
 ├── DEV_README.md                  # 开发 / 排查记录（根因、方案对比、可复用经验）
 ├── explorer-blur-fix-event.ps1    # 修复脚本（推荐，事件驱动）
