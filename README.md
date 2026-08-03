@@ -14,7 +14,7 @@
 
 - 自动 nudge 脚本（**方案②：事件驱动，零轮询**）—— 彻底免去「手动拖动」的麻烦
 - 完整的中文使用说明
-- 开发 / 排查记录 `DEV_README.md`：记录根因分析与多方案对比，以后遇到同类「注入式皮肤首绘漏铺」问题可直接复用
+- 开发 / 排查记录 `DEVELOPMENT.md`：记录根因分析与多方案对比，以后遇到同类「注入式皮肤首绘漏铺」问题可直接复用
 
 ## 许可与归属
 
@@ -56,7 +56,7 @@
 ExplorerBlurMica-whitebar-fix/
 ├── LICENSE                        # 本仓库原创代码的许可（MIT）
 ├── README.md                      # 本文件
-├── DEV_README.md                  # 开发 / 排查记录（根因、方案对比、可复用经验）
+├── DEVELOPMENT.md                  # 开发 / 排查记录（根因、方案对比、可复用经验）
 ├── explorer-blur-fix-event.ps1    # 修复脚本（推荐，事件驱动）
 ├── run-nudge-event.bat            # 静默启动器
 ├── 使用方法与注意事项.md           # 详细中文使用说明
@@ -77,4 +77,13 @@ ExplorerBlurMica-whitebar-fix/
 ## 相关链接
 
 - 上游项目：<https://github.com/Maplespe/ExplorerBlurMica>
-- 开发记录（根因 / 方案层级 / 排查路径）：[`DEV_README.md`](DEV_README.md)
+- 开发记录（根因 / 方案层级 / 排查路径）：[`DEVELOPMENT.md`](DEVELOPMENT.md)
+
+## 文档索引
+
+| 文档 | 给谁看 | 内容 |
+|---|---|---|
+| [`AGENTS.md`](./AGENTS.md) | AI / 未来的你 | 技术要点、关键坑（首绘竞态/事件驱动/MToolBox）、常用命令 |
+| [`DEVELOPMENT.md`](./DEVELOPMENT.md) | 开发者 | 现象到修复完整推导：机理、方案层级对比、nudge 实现 |
+| [`CHANGELOG.md`](./CHANGELOG.md) | 所有人 | 版本变更记录 |
+| [`使用方法与注意事项.md`](./使用方法与注意事项.md) | 用户 | 使用说明 |
