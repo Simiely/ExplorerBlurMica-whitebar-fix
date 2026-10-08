@@ -1,8 +1,3 @@
-> ⚠️ **已并入 [`Simiely/pc-tools`](https://github.com/Simiely/pc-tools)（`scripts/ExplorerBlurMica-whitebar-fix`）**
-> 本仓库已**归档只读**，内容不再更新。后续维护请到 [pc-tools](https://github.com/Simiely/pc-tools)。
-
----
-
 # ExplorerBlurMica 底部白条修复
 
 [![在线预览](https://img.shields.io/badge/在线预览-点击访问-E55D6B)](https://simiely.github.io/ExplorerBlurMica-whitebar-fix/)
